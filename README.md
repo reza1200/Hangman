@@ -1,0 +1,1 @@
+In this game user will play a hangman game by guessing a random word that been chosen by random function from the word list. if user guess a correct letter it will be dispaly on the console otherwise hangman will display by loosing lives.
